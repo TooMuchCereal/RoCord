@@ -21,8 +21,6 @@
 | :-------- | :------- | 
 | `!GetGroupInfo` | `ID of ROBLOX Group` | 
 
-#### Get item
-
 
 | Command   |  Description                       |
 | :-------- |  :-------------------------------- |
