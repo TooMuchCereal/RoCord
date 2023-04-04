@@ -1,5 +1,5 @@
 
-# RoCord - Get Group On ROBLOX Info Through Discord! 
+# RoCord - Get Group Info On ROBLOX Info Through Discord! 
 
 
 
