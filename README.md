@@ -6,7 +6,6 @@
 
 [![Image-One.png](https://i.postimg.cc/3xzfpTZs/Image-One.png)](https://postimg.cc/ZWFLtX2H)
 
-[![Image-TWO.png](https://i.postimg.cc/JnzXzykM/Image-TWO.png)](https://postimg.cc/CZ95vx7Q)
 ## Authors
 
 - [@Corez_Dev](https://www.github.com/TooMuchCereal)
