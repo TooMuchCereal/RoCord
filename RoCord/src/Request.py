@@ -48,4 +48,4 @@ async def GetUserImage(ctx):
         await ctx.send(embed=Embed)
     except:
         pass
-client.run("MTA5Mjc0MzYxODMyMzgwODI4Ng.GFA_HQ.s2pn8VYKKyJ8FgJJ8GihpWHPFe5i_jQDLm9gjA")
+client.run()
